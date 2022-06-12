@@ -1,0 +1,1 @@
+<h2>Ini adalah halaman body2</h2>
